@@ -12,6 +12,13 @@ Hi, I'm a programmer who enjoys working on cool projects but lacks ideas. You ca
 ![](https://nirzak-streak-stats.vercel.app/?user=Milham771&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milham771&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="left">
+<a href="https://github.com/Milham771">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Milham771&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Milham771&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Milham771&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
 
