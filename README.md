@@ -6,8 +6,8 @@ Hi, I'm a programmer who enjoys working on cool projects but lacks ideas. You ca
 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Milham771&theme=algolia&utcOffset=8)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Milham771&layout=compact&langs_count=8&theme=algolia&hide_border=true)
-[![GitHub Streak](https://ghstats.onuralpsezer.com?user=Milham771&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
+![GitHub Streak](https://ghstats.onuralpsezer.com?user=Milham771&theme=algolia&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
