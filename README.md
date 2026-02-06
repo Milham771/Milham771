@@ -25,7 +25,7 @@ Hi, I'm a programmer who enjoys working on cool projects but lacks ideas. You ca
 [![](https://visitcount.itsvg.in/api?id=Milham771&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@MuhammadIlham771) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MuhammadIlham771) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
