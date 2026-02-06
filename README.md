@@ -2,10 +2,10 @@
 Hi, I'm a programmer who enjoys working on cool projects but lacks ideas. You can contact me if you have cool ideas and want to collaborate.
 
 # 📊 GitHub Stats:
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milham771&theme=algolia&hide_border=false)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milham771&theme=algolia&hide_border=true)
 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Milham771&theme=algolia&utcOffset=8)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Milham771&layout=compact&langs_count=8&theme=algolia)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Milham771&layout=compact&langs_count=8&theme=algolia&hide_border=true)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Milham771&theme=blue_navy&hide_border=false)
 
